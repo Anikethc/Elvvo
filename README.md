@@ -1,14 +1,15 @@
 # Elvvo - Move Ahead With Confidence
 
 ## What is Elvvo?
+
 Elvvo is an all-in-one traffic solution that changes its traffic lights according to traffic density. Some other features of Elvvo are:
-* It can monitor the vehicle's speed and display it on the video.
-* There are a bunch of license plate images. So, Elvvo can process that image and return the license number as a String. Then, you can add a crime or fine to that number and it creates separate JSON files in ```data/crime```.
+- It can monitor the vehicle's speed and display it on the video.
+- There are a bunch of license plate images. So, Elvvo can process that image and return the license number as a String. Then, you can add a crime or fine to that number and it creates separate JSON files in ```data/crime```.
 
 ## What is BorderHacks2021?
 BorderHacks is a 36-hour online hackathon hosted by Aislyn Laurent and is sponsored by many companies. The link is [this](https://www.borderhacks2021.devpost.com).
 
-One more thing, I couldn't possibly work on this project without the support from my school "Alpine Public School". Their website is [this](https://ww.alpinepublicschool.com). My school is the one that got me the equipment I needed to complete my project, and without them, I don't think I could've participated in this hackathon.
+One more thing, I couldn't possibly work on this project without the support from my school "Alpine Public School". Their website is [this](https://alpinepublicschool.com). My school is the one that got me the equipment I needed to complete my project, and without them, I don't think I could've participated in this hackathon.
 
 ## Technologies Used
 Some of the technologies used in making this project are:
@@ -54,9 +55,9 @@ I also uploaded a demo video on YouTube. You can check it out [here](https://you
 You can view my participation certificate [here](https://drive.google.com/file/d/1PbTYM9aNIBi2kesFaR2R-fnhRxQEcvhk).
 
 ## How to Use It?
-Yes, you can download the entire repository and store it in one directory.
+Yes, you can download the entire repository and store it in one directory itself.
 
-First, you should ensure that all the above libraries are downloaded using ```pip``` and are working. Then, you can run ```main.py``` and start interacting with the GUI.
+You should download all the necessary Python packages and run the `main.py` program to start the GUI.
 
 ## Thank You
 Thank you for coming and taking a look at my project. I hope you liked it!
